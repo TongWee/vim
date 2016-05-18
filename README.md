@@ -63,3 +63,6 @@ git clone https://github.com/guochy2012/vim.git ~/.vim
 
 cp ~/.vim/vimrc ~/.vimrc
 ```
+
+## 感谢guochunyang的分享
+Fork on 2016/05/18 By Tong
