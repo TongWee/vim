@@ -65,4 +65,4 @@ cp ~/.vim/vimrc ~/.vimrc
 ```
 
 ## 感谢guochunyang的分享
-Fork on 2016/05/18 By Tong
+Forked on 2016/05/18 By Tong
